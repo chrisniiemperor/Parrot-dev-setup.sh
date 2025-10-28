@@ -1,10 +1,8 @@
-#!/usr/bin/env bash
 # Parrot OS Developer Setup Script for Termux
 # Author: Chris Nii Emperor
 # Interactive installer with cleanup option
 
 set -e
-
 # ASCII Banner
 echo "=========================================="
 echo "🦜  Parrot Dev Setup by Chris-Tech"
